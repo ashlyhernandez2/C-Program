@@ -1,5 +1,5 @@
-# Cplusplus-Program
-CS 210 Module Eight Journal Reflection: Corner Grocer Item-Tracking Program
+# C++-Program
+Corner Grocer Item-Tracking Program
 Project Overview
 This repository hosts the Corner Grocer Item-Tracking Program developed for CS 210 at Southern New Hampshire University. The primary goal of this program is to track the frequency of item purchases at a grocery store to assist in inventory management and optimizing store layout.
 
